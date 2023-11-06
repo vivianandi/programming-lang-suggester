@@ -19,7 +19,8 @@ window.onload = function () {
       result += "You do not fit the mold, try Rust.";
     }
 
-    resultDic.textContent = result;
+    let resultDiv = document.getElementById("result");
+    resultDiv.textContent = result;
 
   };
 };
