@@ -25,7 +25,7 @@ _{This is a webpage to practice creating a form with event handlers and branchin
 
 ## License
 
-_If there are any issues, please contact viviananddav@gmail.com
+If there are any issues, please contact viviananddav@gmail.com
 
 MIT License
 
