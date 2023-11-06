@@ -13,11 +13,11 @@
 
 ## Description
 
-_{This is a webpage to practice creating a form with event handlers and branching.}_
+{This is a webpage to practice creating a form with event handlers and branching.}
 
 ## Setup/Installation Requirements
 
-* Accessible using any web browser.
+* Accessible using any web browser
 
 ## Known Bugs
 
