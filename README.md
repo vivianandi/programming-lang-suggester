@@ -16,9 +16,13 @@
 _This is a webpage to practice creating a form with event handlers and branching._
 
 ## Setup/Installation Requirements
+Clone this [repository](https://github.com/vivianandi/programming-lang-suggester.git) to your desktop by following these steps:
 
-* Clone this [repository](https://github.com/vivianandi/programming-lang-suggester.git) to your desktop
+* Open the terminal 
 * Navigate to the top level of your directory
+* Run the following commands:
+git clone https://github.com/vivianandi/programming-lang-suggester.git
+cd programming-lang-suggester
 * Open index.html in your preferred web browser
 
 ## Known Bugs
