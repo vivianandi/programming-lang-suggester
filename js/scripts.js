@@ -5,7 +5,7 @@ window.onload = function () {
 
     const name = document.getElementById("addName").value;
     const age = document.getElementById("addAge").value;
-    const email = document.getElementById("addEmail").value;
+    const onlyChild = document.getElementById("onlyChild").value;
     const favoriteColor = document.getElementById("favoriteColor").value;
     const favoriteFood = document.getElementById("favoriteFood").value;
 
@@ -13,10 +13,12 @@ window.onload = function () {
 
     if (age < 21) {
       result += "You are under 21, so try Python.";
-    } else if (age >= 21 && favoriteColor.toLowerCase() === "blue") {
-      result += "You are 21 or older and your favorite color is blue. Try Javascript.";
+    } else if (age >= 21 && onlyChild.toLowerCase() === "no") {
+      result += "You might like Python!";
+    } else if (age >= 21 && favoriteColor.toLowerCase() === "blue" && favoriteFood.toLowerCase() === "pizza") {
+      result += "Try Javascript.";
     } else {
-      result += "You do not fit the mold, try Rust.";
+      result += "You do not fit the specific criteria, but give Rust a try!";
     }
 
     let resultDiv = document.getElementById("result");
