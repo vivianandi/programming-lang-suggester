@@ -21,8 +21,8 @@ Clone this [repository](https://github.com/vivianandi/programming-lang-suggester
 * Open the terminal 
 * Navigate to the top level of your directory
 * Run the following commands:
-git clone https://github.com/vivianandi/programming-lang-suggester.git
-cd programming-lang-suggester
+* git clone https://github.com/vivianandi/programming-lang-suggester.git
+* cd programming-lang-suggester
 * Open index.html in your preferred web browser
 
 ## Known Bugs
