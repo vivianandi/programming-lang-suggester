@@ -17,7 +17,10 @@ _This is a webpage to practice creating a form with event handlers and branching
 
 ## Setup/Installation Requirements
 
-* Accessible using any web browser
+* Clone this [repository] (https://github.com/vivianandi/programming-lang-suggester.git) to your desktop
+* Navigate to the top level of your directory
+* Open index.html in your preferred web browser
+* Additionally, the [gh-page] is accessible using any web browser
 
 ## Known Bugs
 
@@ -29,7 +32,7 @@ If there are any issues, please contact viviananddav@gmail.com
 
 MIT License
 
-Copyright (c) 11/6/23 Vivian Davila
+Copyright (c) 2023 Vivian Davila
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
