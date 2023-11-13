@@ -4,9 +4,6 @@ body {
   color: darkcyan
 }
 
-
-
-
 .languageName {
   text-align: center;
   display: inline-block;
@@ -16,5 +13,4 @@ body {
   vertical-align: top;
   margin: 5px;
   box-sizing: border-box;
-
 }
