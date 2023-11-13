@@ -9,7 +9,7 @@ window.onload = function () {
     const favoriteColor = document.getElementById("favoriteColor").value;
     const favoriteFood = document.getElementById("favoriteFood").value;
 
-    let result = "Here it is!";
+    let result = "Here it is, " + name + "! ";
 
     if (age < 21) {
       result += "You are under 21, so try Python.";
